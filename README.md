@@ -86,7 +86,7 @@ Both models are fine-tuned on restaurant-related datasets and loaded automatical
 ## Project Structure
 
 ```text
-DEEP_LEARNING_FINAL_PROJECT/
+DEEP_LEARNING-FINAL_PROJECT/
 ├── app/
 │   └── main_app.ipynb          # Gradio application notebook
 ├── dataset/
@@ -115,7 +115,7 @@ Follow the steps below to run this project on your local machine.
 Open a terminal (Command Prompt, PowerShell, or Terminal) and clone the repository from GitHub:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/RainerYesaya/DeepLearning_FinalProject_Sentiment-Aware-NER-or-Analyzing-Food-and-Service-Quality-in-Restaurants.git)
 ```
 
 Wait until the cloning process finishes. This will create a local copy of the project on your device.
@@ -123,7 +123,7 @@ Wait until the cloning process finishes. This will create a local copy of the pr
 Next, navigate into the project directory:
 
 ```bash
-cd DEEP_LEARNING_FINAL_PROJECT
+cd DEEP_LEARNING-FINAL_PROJECT
 ```
 
 Make sure you are inside the main project folder before proceeding. You should see folders such as `app/`, `dataset/`, `trained_models/`, and `src/`.
