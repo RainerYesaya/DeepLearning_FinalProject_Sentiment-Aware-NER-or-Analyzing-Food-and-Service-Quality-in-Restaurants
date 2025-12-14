@@ -26,13 +26,13 @@ The application consists of two main pages:
 
 The Home page provides a brief explanation of the problem, the models used, and how to use the application.
 
-![alt text](image.png)
+![alt text](./assets/HomePage.png)
 
 ### Analysis Dashboard
 
 The Analysis Dashboard is where users interact with the system and view results.
 
-![alt text](image-1.png)
+![alt text](./assets/AnalysisDashboardPage.png)
 
 ---
 
@@ -115,7 +115,7 @@ Follow the steps below to run this project on your local machine.
 Open a terminal (Command Prompt, PowerShell, or Terminal) and clone the repository from GitHub:
 
 ```bash
-git clone [<repository-url>](https://github.com/RainerYesaya/DeepLearning_FinalProject_Sentiment-Aware-NER-or-Analyzing-Food-and-Service-Quality-in-Restaurants.git)
+git clone https://github.com/RainerYesaya/DeepLearning_FinalProject_Sentiment-Aware-NER-or-Analyzing-Food-and-Service-Quality-in-Restaurants.git
 ```
 
 Wait until the cloning process finishes. This will create a local copy of the project on your device.
