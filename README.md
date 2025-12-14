@@ -1,4 +1,4 @@
-# Sentiment-Aware Named Entity Recognition for Restaurant Reviews
+# Sentiment-Aware Named Entity Recognition for Analyzing Food and Service Quality in Restaurants
 
 This project is a **Deep Learning-based application** designed to analyze restaurant reviews by combining **Sentiment Analysis (SA)** and **Named Entity Recognition (NER)**. The system helps identify what customers are talking about (such as food or service) and how they feel about those aspects.
 
